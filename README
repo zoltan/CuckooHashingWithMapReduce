@@ -1,1 +1,4 @@
 A demo implementation of Cuckoo hashing with MapReduce.
+
+For graph animation, see this:
+http://gexf.net/1.2draft/gexf-12draft-primer.pdf
